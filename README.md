@@ -42,7 +42,7 @@ Our development period spanned from April to June 2024.
 This project has been created by:
 - **Martí Comas**: [Linkedin](https://www.linkedin.com/in/marticomas/)
 - **David Gómez**: [Linkedin](https://www.linkedin.com/in/david-g%C3%B3mez-raya-ab39a3274/)
-- **Manuel López**: [Linkedin](https://www.linkedin.com/in/manuellopezaguilar/)  &nbsp; 
+- **Manuel López**: [Linkedin](https://www.linkedin.com/in/manulopeza/)  &nbsp; 
   [Behance](https://www.behance.net/manulopeza)
 
 
